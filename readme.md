@@ -44,10 +44,6 @@
 - `maxHeight`: Maximum height for resized images.
 - `allowedFormats`: Array of allowed image formats to process (e.g., `['jpg', 'jpeg', 'png', 'webp', 'tiff']`).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Built with [Node.js](https://nodejs.org/)
