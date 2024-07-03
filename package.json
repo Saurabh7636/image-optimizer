@@ -1,0 +1,26 @@
+{
+  "name": "image-optimizer",
+  "version": "1.0.0",
+  "description": "A Node.js script to optimize images and maintain directory structure.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.0",
+    "fs-extra": "^11.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-repo/image-optimizer.git"
+  },
+  "keywords": [
+    "image",
+    "optimization",
+    "sharp",
+    "node"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
+
