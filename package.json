@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-repo/image-optimizer.git"
+    "url": "https://github.com/Saurabh7636/image-optimizer.git"
   },
   "keywords": [
     "image",
@@ -20,7 +20,7 @@
     "sharp",
     "node"
   ],
-  "author": "Your Name",
+  "author": "Saurabh Singh",
   "license": "MIT"
 }
 
